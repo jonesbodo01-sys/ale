@@ -149,8 +149,8 @@ export const AletwendeSend: React.FC = () => {
           <div className="flex items-center space-x-4">
             <div className="text-5xl">🏗️🧱🏠🔌🧵</div>
             <div className="text-left">
-              <h3 className="font-bold text-xl text-white">Heavy Duty</h3>
-              <p className="text-sm text-gray-100 mt-1">Heavy equipment & machinery</p>
+              <h3 className="font-bold text-xl text-white">Hardware</h3>
+              <p className="text-sm text-gray-100 mt-1">Building materials & equipments</p>
             </div>
           </div>
         </motion.button>
