@@ -147,7 +147,7 @@ export const AletwendeSend: React.FC = () => {
           whileHover={{ y: -4 }}
         >
           <div className="flex items-center space-x-4">
-            <div className="text-5xl">🏗️🧱🏠</div>
+            <div className="text-5xl">🏗️🧱🏠🔌🧵</div>
             <div className="text-left">
               <h3 className="font-bold text-xl text-white">Heavy Duty</h3>
               <p className="text-sm text-gray-100 mt-1">Heavy equipment & machinery</p>
